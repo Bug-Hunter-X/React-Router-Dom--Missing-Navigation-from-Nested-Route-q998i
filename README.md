@@ -1,0 +1,2 @@
+# React Router Dom: Missing Navigation from Nested Route
+This repository demonstrates a common issue encountered when using React Router Dom: missing navigation from nested routes.  The example shows how a lack of proper navigation from a nested component (About) back to the home page leads to a broken user experience. The solution shows how to include a link back to the Home page to properly navigate.
